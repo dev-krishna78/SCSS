@@ -25,19 +25,19 @@ main{
     }
 
     section:nth-child(1){
-       background-image: url(./ironman.jpeg)
+       background-image: url("./assets/spider-man.jpeg")
     }
     section:nth-child(2){
-       background-image: url(./captain-america.jpeg)
+      background-image: url("./assets/ironman.jpeg")
     }
     section:nth-child(3){
-       background-image: url(./Wanda.jpeg)
+       background-image: url("./assets/Wanda.jpeg")
     }
     section:nth-child(4){
-       background-image: url(./thor.jpeg)
+       background-image: url("./assets/spider-man.jpeg")
     }
     section:nth-child(5){
-       background-image: url(./spider-man.jpeg)
+       background-image: url("./assets/thor.jpeg")
     }
 
     section:hover{
